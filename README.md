@@ -7,3 +7,5 @@
 - **Crunchbase:** https://crunchbase.com
 - **LinkedIn:** https://linkedin.com
 - **Instagram:** https://instagram.com
+
+Check out my curated **[Crowdfunding & Fundraising Resources](https://github.com)** list for tips and top platforms like **[FundMyUniverse](https://fundmyuniverse.com)**.
